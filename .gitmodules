@@ -1,0 +1,3 @@
+[submodule "prueba-odoo"]
+	path = prueba-odoo
+	url = https://github.com/lucas-gimenez10/prueba-odoo.git
